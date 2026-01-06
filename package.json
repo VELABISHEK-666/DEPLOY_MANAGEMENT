@@ -1,0 +1,11 @@
+{
+  "name": "deploy-management",
+  "version": "1.0.0",
+  "description": "Web Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Uma Maheshwari",
+  "license": "ISC"
+}
